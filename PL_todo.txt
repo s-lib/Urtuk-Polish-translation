@@ -1,5 +1,27 @@
 Użyte nazwy:
 
+Desolation -> Dezolacja
+
+engage
+taunted
+rend -> rozdarcie rozerwij
+
+stamina - staminy
+
+
+
+achievement trait -> cecha osiągnięcia
+
+Necro skin -> Trupia skóra
+Devil's Pact -> Diabelski Pakt
+Angel's Pact -> Anielski Pakt
+Lethal Blow -> Śmiertelny cios
+Furious -> Wściekłość
+Mansplitter -> Rozłupywacz
+Resilience -> Wytrwałość
+
+Damage Recovery -> 
+
 Flesh -> Ciało (Mięso?)
 
 Perk -> Profit
@@ -7,11 +29,20 @@ Trait -> Cecha
 
 Stronghold -> Warownia
 Fortress -> Forteca
-
+Axeman -> Topornik (Rębacz?)
 Bloodknight -> Krawy Rycerz
+
+Engager -> ???
+
+Boss -> Boss ?
 
 Beast -> Bestia
 Werebeast -> Bestiołak
 Cultist -> Kultysta
 Revenant -> Zjawa, Upiór?
 Valdor -> Valdorianie, Valdorczycy, Valdoriański Valdorski
+Forsaken -> Zapomniani
+Swamp -> z Mokradeł
+Swampers -> 
+Scavenger
+
