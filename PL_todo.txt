@@ -9,6 +9,8 @@ rend -> rozdarcie rozerwij
 stamina - staminy
 
 
+armour -> zbroja czy pancerz
+
 
 achievement trait -> cecha osiągnięcia
 
@@ -19,8 +21,8 @@ Lethal Blow -> Śmiertelny cios
 Furious -> Wściekłość
 Mansplitter -> Rozłupywacz
 Resilience -> Wytrwałość
-
 Damage Recovery -> 
+Speeder -> Śmigacz
 
 Flesh -> Ciało (Mięso?)
 
@@ -38,11 +40,12 @@ Boss -> Boss ?
 
 Beast -> Bestia
 Werebeast -> Bestiołak
+Werebeast virus -> wirus tyriotropii (thirio = beast)
 Cultist -> Kultysta
 Revenant -> Zjawa, Upiór?
 Valdor -> Valdorianie, Valdorczycy, Valdoriański Valdorski
 Forsaken -> Zapomniani
 Swamp -> z Mokradeł
-Swampers -> 
+Swampers -> Bagiennicy? Moczarowcy? Mokradłowcy?
 Scavenger
 
