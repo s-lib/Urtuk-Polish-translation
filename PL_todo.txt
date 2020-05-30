@@ -2,8 +2,8 @@ Użyte nazwy:
 
 Desolation -> Dezolacja
 
-engage
-taunted
+engaged -> zajęty, zaangażowany?, zaabsorbowany, zaprzątnięty, zatracony
+taunted -> wydrwiony, wyszydzony
 rend -> rozdarcie rozerwij
 
 Intoxication -> zatrucie? odurzenie? intoksykacja?
@@ -14,6 +14,8 @@ Mending -> Gojenie
 armour -> zbroja czy pancerz
 
 achievement trait -> cecha osiągnięcia
+
+scavenging mission -> 
 
 Necro skin -> Trupia skóra
 Devil's Pact -> Diabelski Pakt
