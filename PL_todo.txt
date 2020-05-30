@@ -6,11 +6,12 @@ engage
 taunted
 rend -> rozdarcie rozerwij
 
+Intoxication -> zatrucie? odurzenie? intoksykacja?
+
 stamina - staminy
 Mending -> Gojenie
 
 armour -> zbroja czy pancerz
-
 
 achievement trait -> cecha osiągnięcia
 
