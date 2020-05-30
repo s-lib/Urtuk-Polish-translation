@@ -7,7 +7,7 @@ taunted
 rend -> rozdarcie rozerwij
 
 stamina - staminy
-
+Mending -> Gojenie
 
 armour -> zbroja czy pancerz
 
@@ -25,16 +25,22 @@ Damage Recovery ->
 Speeder -> Śmigacz
 
 Flesh -> Ciało (Mięso?)
+Medicine -> Medykamenty (by odróżnić od leku)
+Cure -> lek
 
-Perk -> Profit
+Perk -> Profit, talent?
 Trait -> Cecha
+
+to butcher -> zarżnąć, rozebrać?
 
 Stronghold -> Warownia
 Fortress -> Forteca
 Axeman -> Topornik (Rębacz?)
-Bloodknight -> Krawy Rycerz
-
+Bloodknight -> Rycerz Krwi
+Abomination -> Obrzydliwość / Odmieniec?
 Engager -> ???
+Chieftain -> Wódz? Watażka?
+Warlord -> Herszt?
 
 Boss -> Boss ?
 
@@ -45,7 +51,11 @@ Cultist -> Kultysta
 Revenant -> Zjawa, Upiór?
 Valdor -> Valdorianie, Valdorczycy, Valdoriański Valdorski
 Forsaken -> Zapomniani
-Swamp -> z Mokradeł
+Swamp -> z Mokradeł, Grzęzawiska, Trzęsawiska
 Swampers -> Bagiennicy? Moczarowcy? Mokradłowcy?
-Scavenger
+Scavengers -> Śmieciarze, Plądrownicy, Grabieżcy, Szabrownicy
+Necroreavers -> Trupozbójcy, Trupozbiry, Nekrozbiry, Nekrozbójcy,... Nekrobójcy, Nekroryści, 
+
+284": "%1% blokuje %2% obrażeń (z %4%) swoim: %3%!",
+284": "%3% blokuje %2% z %4% obrażeń, które miał otrzymać %1%!",
 
