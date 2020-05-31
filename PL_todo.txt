@@ -1,9 +1,11 @@
 Użyte nazwy:
 
-Desolation -> Dezolacja
+Desolation -> Dezolacja, spustoszenie?
 
 Damage recovery -> ?????????????
 
+stamina --> energia !!!!!!!
+zbroja --> pancerz !!!!!!!
 bez tchu --> wyczerpanie???
 Barykada --> przeszkoda?
 ranny --> kontuzjowany?
@@ -15,7 +17,6 @@ rend -> rozdarcie rozerwij
 
 Intoxication -> zatrucie? odurzenie? intoksykacja?
 
-stamina - staminy
 Mending -> Gojenie
 
 armour -> zbroja czy pancerz
@@ -71,3 +72,4 @@ Necroreavers -> Trupozbójcy - Trupozbiry, Nekrozbiry, Nekrozbójcy,... Nekrobó
 1297 - sprawdzić zmienną (nazwa miejsca czy potworów)
 2261 - sierpem?
 "2193": "The %1% escaped prisoners have now left this area.", (nazwa miejsca czy potworów)
+2191 (nazwa miejsca czy potworów)
