@@ -2,7 +2,14 @@ Użyte nazwy:
 
 Desolation -> Dezolacja
 
-engaged -> zajęty, zaangażowany?, zaabsorbowany, zaprzątnięty, zatracony
+Damage recovery -> ?????????????
+
+bez tchu --> wyczerpanie???
+Barykada --> przeszkoda?
+ranny --> kontuzjowany?
+
+engaged -> zaprzątnięty -- zajęty, zaangażowany?, zaabsorbowany, , zatracony
+Disengagement -> Wycofanie
 taunted -> wydrwiony, wyszydzony
 rend -> rozdarcie rozerwij
 
@@ -27,7 +34,7 @@ Resilience -> Wytrwałość
 Damage Recovery -> 
 Speeder -> Śmigacz
 
-Flesh -> Ciało (Mięso?)
+Flesh -> Mięso (Ciało)
 Medicine -> Medykamenty (by odróżnić od leku)
 Cure -> lek
 
@@ -41,7 +48,7 @@ Fortress -> Forteca
 Axeman -> Topornik (Rębacz?)
 Bloodknight -> Rycerz Krwi
 Abomination -> Obrzydliwość / Odmieniec?
-Engager -> ???
+Engager -> Zaczepnik???
 Chieftain -> Wódz? Watażka?
 Warlord -> Herszt?
 
@@ -51,14 +58,16 @@ Beast -> Bestia
 Werebeast -> Bestiołak
 Werebeast virus -> wirus tyriotropii (thirio = beast)
 Cultist -> Kultysta
-Revenant -> Zjawa, Upiór?
-Valdor -> Valdorianie, Valdorczycy, Valdoriański Valdorski
+Revenant -> Upiór - Zjawa
+Valdor -> Valdorianie, Valdoriański - Valdorczycy,  Valdorski
 Forsaken -> Zapomniani
-Swamp -> z Mokradeł, Grzęzawiska, Trzęsawiska
-Swampers -> Bagiennicy? Moczarowcy? Mokradłowcy?
-Scavengers -> Śmieciarze, Plądrownicy, Grabieżcy, Szabrownicy
-Necroreavers -> Trupozbójcy, Trupozbiry, Nekrozbiry, Nekrozbójcy,... Nekrobójcy, Nekroryści, 
+Swamp -> z Mokradeł - Grzęzawiska, Trzęsawiska
+Swampers -> Mokradłaki - Bagiennicy? Moczarowcy? Mokradłowcy?
+Scavengers -> Szabrownicy - Śmieciarze, Plądrownicy, Grabieżcy, 
+Necroreavers -> Trupozbójcy - Trupozbiry, Nekrozbiry, Nekrozbójcy,... Nekrobójcy, Nekroryści, 
 
-284": "%1% blokuje %2% obrażeń (z %4%) swoim: %3%!",
-284": "%3% blokuje %2% z %4% obrażeń, które miał otrzymać %1%!",
-
+275 - has been
+276 - is
+1297 - sprawdzić zmienną (nazwa miejsca czy potworów)
+2261 - sierpem?
+"2193": "The %1% escaped prisoners have now left this area.", (nazwa miejsca czy potworów)
