@@ -69,6 +69,8 @@ Swampers -> Mokradłaki - Bagiennicy? Moczarowcy? Mokradłowcy?
 Scavengers -> Szabrownicy - Śmieciarze, Plądrownicy, Grabieżcy, 
 Necroreavers -> Trupozbójcy - Trupozbiry, Nekrozbiry, Nekrozbójcy,... Nekrobójcy, Nekroryści, 
 
+"3054": "Bestia jeżozwierz", -> kolcozwierz?
+
 275 - has been
 276 - is
 1297 - sprawdzić zmienną (nazwa miejsca czy potworów)
