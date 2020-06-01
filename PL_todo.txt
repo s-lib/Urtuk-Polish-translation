@@ -1,10 +1,11 @@
 Użyte nazwy:
 
-Desolation -> Dezolacja, spustoszenie?
+Desolation -> Dezolacja, spustoszenie?  
 
-Damage recovery -> ?????????????
+Damage recovery -> naprawa szkód, odzyskiwanie zdrowia, leczenie ran, leczenie obrażeń, uzdrawianie ran, kuracja obrażeń!
+respec -> ???
+boss ->
 
-stamina --> energia !!!!!!!
 zbroja --> pancerz !!!!!!!
 bez tchu --> wyczerpanie???
 Barykada --> przeszkoda?
@@ -41,6 +42,7 @@ Cure -> lek
 
 Perk -> Profit, talent?
 Trait -> Cecha
+stamina -> energia
 
 to butcher -> zarżnąć, rozebrać?
 
@@ -73,3 +75,5 @@ Necroreavers -> Trupozbójcy - Trupozbiry, Nekrozbiry, Nekrozbójcy,... Nekrobó
 2261 - sierpem?
 "2193": "The %1% escaped prisoners have now left this area.", (nazwa miejsca czy potworów)
 2191 (nazwa miejsca czy potworów)
+
+2303 - niezłomność, czy niezdolność do ruchu?
