@@ -1,15 +1,18 @@
 Użyte nazwy:
 
+Trupozbójca - Trupiozbójca - Nekrozbójca
+
 Desolation -> Dezolacja, spustoszenie?  
 
-Damage recovery -> naprawa szkód, odzyskiwanie zdrowia, leczenie ran, leczenie obrażeń, uzdrawianie ran, kuracja obrażeń!
+Rana --> kontuzja
+Damage recovery --> naprawa szkód, odzyskiwanie zdrowia, leczenie ran, leczenie obrażeń, uzdrawianie ran, kuracja obrażeń!
+zbroja --> pancerz !!!!!!!
+
 respec -> ???
 boss ->
 
-zbroja --> pancerz !!!!!!!
 bez tchu --> wyczerpanie???
 Barykada --> przeszkoda?
-ranny --> kontuzjowany?
 
 engaged -> zaprzątnięty -- zajęty, zaangażowany?, zaabsorbowany, , zatracony
 Disengagement -> Wycofanie
