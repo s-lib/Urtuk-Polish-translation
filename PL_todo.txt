@@ -3,7 +3,6 @@ Użyte nazwy:
 Desolation -> Dezolacja, spustoszenie?  
 
 Rana --> kontuzja
-Damage recovery --> naprawa szkód, odzyskiwanie zdrowia, leczenie ran, leczenie obrażeń, uzdrawianie ran, kuracja obrażeń!
 zbroja --> pancerz !!!!!!!
 
 respec -> ???
@@ -16,6 +15,7 @@ engaged -> zaprzątnięty -- zajęty, zaangażowany?, zaabsorbowany, , zatracony
 Disengagement -> Wycofanie
 taunted -> wydrwiony, wyszydzony
 rend -> rozdarcie rozerwij
+Damage recovery --> kuracja obrażeń | naprawa szkód, odzyskiwanie zdrowia, leczenie ran, leczenie obrażeń, uzdrawianie ran
 
 Intoxication -> zatrucie? odurzenie? intoksykacja?
 
