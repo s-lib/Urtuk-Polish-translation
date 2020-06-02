@@ -1,7 +1,5 @@
 Użyte nazwy:
 
-Trupozbójca - Trupiozbójca - Nekrozbójca
-
 Desolation -> Dezolacja, spustoszenie?  
 
 Rana --> kontuzja
@@ -70,7 +68,7 @@ Forsaken -> Zapomniani
 Swamp -> z Mokradeł - Grzęzawiska, Trzęsawiska
 Swampers -> Mokradłaki - Bagiennicy? Moczarowcy? Mokradłowcy?
 Scavengers -> Szabrownicy - Śmieciarze, Plądrownicy, Grabieżcy, 
-Necroreavers -> Trupozbójcy - Trupozbiry, Nekrozbiry, Nekrozbójcy,... Nekrobójcy, Nekroryści, 
+Necroreavers -> Trupiozbójcy - Trupozbójcy - Nekrozbójcy | Trupozbójcy - Trupozbiry, Nekrozbiry, Nekrozbójcy,... Nekrobójcy, Nekroryści, 
 
 "3054": "Bestia jeżozwierz", -> kolcozwierz?
 
