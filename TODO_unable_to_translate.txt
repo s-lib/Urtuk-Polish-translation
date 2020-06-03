@@ -1,0 +1,5 @@
+English texts not possible to translate (not in translation file)
+
+1. Text "Bounty Hunters!", party name of bounty hunters send for the player
+2. Atrribute names like "AGI", "STR" injected in line "1615" (the %1% variable)
+3. Source of speed reduction (like "mud", "stun"...) injected in line "293" (the %3% variable)
