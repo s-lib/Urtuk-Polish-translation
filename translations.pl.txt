@@ -3,7 +3,7 @@
     "2": "Otrzymując śmiertelne obrażenia, zamiast umrzeć wchodzisz w stan #h{zastoju regeneracyjnego} na %1% tury(ę). W tym stanie twoja postać jest #h{niepokonana} i #h{zregeneruje swe zdrowie do pełna}. Następnie zyska dodatkową regenerację w wysokości 200% maks. PZ na dwie kolejne tury. Nadal jednak można nałożyć na postać nowe efekty. ~ Raz na bitwę.",
     "3": "Nieśmiertelny",
     "6": " nie jest jeszcze przegrany! Jest nieśmiertelny!",
-    "7": "Każda umiejętność wymaga #h{energii}, aby jej użyć. Energia regeneruje się co turę, w zależności ile energii wykorzystano. Wybranie #h{czekania} zregeneruje jednak 100% twojej energii. ~ Jeśli uderzysz wielokrotnie podczas jednej tury, możliwe że całkowicie zużyjesz swoją energię. Wówczas twoja postać zyska status #h{brak tchu} i nie będzie w stanie użyć żadnych umiejętności (atak, osłanianie sojusznika, wsparcie dystansowe itp.) aż do następnej tury.",
+    "7": "Każda umiejętność wymaga #h{energii}, aby jej użyć. Energia regeneruje się co turę, w zależności ile energii wykorzystano. Wybranie #h{czekania} zregeneruje jednak 50% twojej energii. ~ Jeśli uderzysz wielokrotnie podczas jednej tury, możliwe że całkowicie zużyjesz swoją energię. Wówczas twoja postać zyska status #h{brak tchu} i nie będzie w stanie użyć żadnych umiejętności (atak, osłanianie sojusznika, wsparcie dystansowe itp.) aż do następnej tury.",
     "8": "Zazwyczaj jeśli twoja postać wykona jakąś akcję, jak np. atak, jej tura automatycznie się #h{kończy}. ~ Jeśli jednak nie chcesz wykonać żadnej akcji, możesz zakończyć turę #h{Czekając}. To także #h{zwiększy twoją szybkość} o niewielką wartość, przez co postać będzie mogła zadziałać nieco wcześniej. #h{Czekasz} klikając ikonkę w dolnym rogu ekranu, lub naciskając klawisz #h{SPACJI}.",
     "9": "Twój przywódca został #h{powalony}! ~ ~ To oznacza, że został #h{ranny}. Rany można #h{wyleczyć}, jednak gdy będąc rannym zostanie ponownie powalony w bitwie, wówczas umrze, a to oznacza #h-red{koniec gry}!",
     "10": "Twoja sytuacja wygląda dość beznadziejnie. Czasami taktyczny odwrót jest opcją lepszą, niż walka do śmierci. Zawsze możesz się wycofać z bitwy do swojej poprzedniej pozycji na mapie świata. Kiedy dokonujesz odwrotu, upewnij się, że wszystkie twoje postacie zajęły miejsca na pozycjach do odwrotu, aby uniknęły ran. Każda postać poza polami odwrotu i znajdująca się blisko wroga zostanie ranna lub zabita! Pamiętaj też, że wrogowie zabici w tej bitwie pozostaną martwi, kiedy wrócisz tu później. Teren walki jednak się nieco zmieni.",
@@ -2759,7 +2759,11 @@
     "5460": "Powolny uczeń",
     "5461": "Nie jesteś zbyt bystry i gorzej przyswajasz wiedzę. Ilość punktów doświadczenia potrzebnych do awansowania na kolejny poziom jest wyższa o #h{%1%%}.",
     "5462": "Po tak wielu bitwach moc #h{Kamienia Śmierci} wyczerpała się!",
-    "5463": "Kamień Śmierci wyczerpany"
+    "5463": "Kamień Śmierci wyczerpany",
+    "5464": "Rzuć Znamię zabójcy",
+    "5465": "Zmień język",
+    "5466": "Język gry #h{polski}. Dla najlepszego efektu, uruchom grę ponownie.",
+    "5467": "Zmień język gry na #h{polski}. ~ Ponowne uruchomienie gry jest wymagane, aby zastosować zmiany."
   },
-  "lastKey": 5463
+  "lastKey": 5467
 }
