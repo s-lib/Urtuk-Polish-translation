@@ -100,7 +100,7 @@
     "95": "%1% (+%2%)",
     "96": "Koncentracja",
     "97": "%1% na %2% (%3% tur)",
-    "98": "%1% (%2% %, %3%x ładunków)",
+    "98": "%1% (%2%%, %3%x ładunków)",
     "99": "Drugi atak!",
     "100": "Pojedynek! (%1%/%2%)",
     "101": "Pojedynek! (%1%/%2%)",
@@ -529,7 +529,7 @@
     "586": "W tym slocie dozwolony jest tylko mutator #h-purple{umiejętności skupienia}!",
     "587": "Mutator",
     "588": "Mutator z umiejętnością skupienia",
-    "597": "trajektorię po linii wzroku",
+    "597": "trajektorię po bezpośredniej linii wzroku",
     "598": "trajektorię łuku (przelatuje ponad przeszkodami)",
     "589": " wyłącznie!",
     "590": "Przedmiot rozebrany! Zdobyte trilium: #h{%1%}.",
@@ -2129,7 +2129,6 @@
     "2389": "~ ~ Szaman ciągnie dalej: 'Nie sądzę, by #h-gold{lek} znajdował się gdzieś w okolicy. Słyszałem jednakże, że pod jedną z tutejszych #h{wiosek} kryje się tajne wejście do ogromnej bagiennej pieczary. Właśnie tego powinieneś szukać!'",
     "2390": "WRZĄCY OLEJ~ ~ Postacie wkraczające lub pozostające na tym polu otrzymują #h{obrażenia} w wysokości #h{%1%%} maks. PZ.",
     "2391": "Valdoriańska zbroja",
-    "2392": "Valdoriańska zbroja jest tak wysokiej jakości, że nie działa na nią #h{kwas}, a jej #h{ochrona} jest zwiększona o 25% .",
     "2393": "Weteran",
     "2394": "Jako weteran wielu bitew, potrafisz lepiej walczyć w zbroi. ~ Ochrona pancerza: #h{+35%}",
     "2395": ", #h-orange{%1%% leczenia}",
@@ -2751,6 +2750,16 @@
     "5451": " ~ ~ Możesz pozyskać te cechy (wybrane losowo, uporządkowane według preferencji):",
     "5452": "Kamień Śmierci (%1%)",
     "5453": " ~ ~ Nie można zarżnąć: ~ <<entity>> nie ma cech, które można by pozyskać."
+    "5454": "Valdorian armour is of such high quality it is unaffected by #h{acid} and its #h{protection} is increased by %1%%.",
+    "5455": "Forsaken Master",
+    "5456": "A small creature with a powerful axe, he can pull enemies to him from any direction.",
+    "5457": "Beast preservation",
+    "5458": "Whenever an ally dies, increase your #h{attack damage} by +%1%% for the duration of this battle and gain %2%x charges of #h{damage recovery (%3%%)}. The bonus damage decays by %4%% per turn.",
+    "5459": " (+%1%% dmg)",
+    "5460": "Slow learner",
+    "5461": "You're not too bright and learn a bit slower. XP required for level-up is increased by #h{%1%%}.",
+    "5462": "After so many battles, the #h{Death Stone} has been depleted!",
+    "5463": "Death Stone depleted"
   },
-  "lastKey": 5453
+  "lastKey": 5463
 }
