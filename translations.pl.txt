@@ -100,7 +100,7 @@
     "95": "%1% (+%2%)",
     "96": "Concentration",
     "97": "%1% on %2% (%3% turns)",
-    "98": "%1% (%2% %, %3%x charges)",
+    "98": "%1% (%2%%, %3%x charges)",
     "99": "Second attack!",
     "100": "Duel! (%1%/%2%)",
     "101": "Duel! (%1%/%2%)",
@@ -529,7 +529,7 @@
     "586": "Only a #h-purple{Focus ability} mutator is allowed in this slot!",
     "587": "Mutator",
     "588": "Mutator with Focus Ability",
-    "597": "line of sight trajectory",
+    "597": "direct line of sight trajectory",
     "598": "arc trajectory (can shoot over obstacles)",
     "589": " only!",
     "590": "Item dismantled! Trilium acquired: #h{%1%}.",
@@ -2129,7 +2129,6 @@
     "2389": "~ ~ The shaman continues: 'I don't believe the #h-gold{Cure} will be found in this zone. I've heard however that beneath one of the #h{villages} is a secret entrance to a huge Swamp Cavern. That is what you should be looking for!'",
     "2390": "BOILING OIL~ ~ Units entering or remaining on this hex are #h{damaged} for #h{%1%%} of MAX HP.",
     "2391": "Valdorian armour",
-    "2392": "Valdorian armour is of such high quality it is unaffected by #h{acid} and its #h{protection} is increased by 25% .",
     "2393": "Veteran",
     "2394": "As a veteran of many battles, your ability to fight in armour has improved. ~ Armour protection: #h{+35%}",
     "2395": ", #h-orange{%1%% healing}",
@@ -2750,7 +2749,17 @@
     "5450": " ~ ~ You can't butcher: no #h{Death Stone} equiped.",
     "5451": " ~ ~ You might extract these traits (randomely chosen, ordered by preference):",
     "5452": "Death Stone (%1%)",
-    "5453": " ~ ~ You can't butcher: ~ <<entity>> has no extractable traits."
+    "5453": " ~ ~ You can't butcher: ~ <<entity>> has no extractable traits.",
+    "5454": "Valdorian armour is of such high quality it is unaffected by #h{acid} and its #h{protection} is increased by %1%%.",
+    "5455": "Forsaken Master",
+    "5456": "A small creature with a powerful axe, he can pull enemies to him from any direction.",
+    "5457": "Beast preservation",
+    "5458": "Whenever an ally dies, increase your #h{attack damage} by +%1%% for the duration of this battle and gain %2%x charges of #h{damage recovery (%3%%)}. The bonus damage decays by %4%% per turn.",
+    "5459": " (+%1%% dmg)",
+    "5460": "Slow learner",
+    "5461": "You're not too bright and learn a bit slower. XP required for level-up is increased by #h{%1%%}.",
+    "5462": "After so many battles, the #h{Death Stone} has been depleted!",
+    "5463": "Death Stone depleted"
   },
-  "lastKey": 5453
+  "lastKey": 5463
 }
