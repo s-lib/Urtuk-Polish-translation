@@ -3,7 +3,7 @@
     "2": "When taking lethal damage, instead of dying enter #h{regeneration stasis} for %1% turn(s). In this state, your character is #h{invincible} and will #h{regenerate to full health}. Gain additional 200% MAX HP regen for 2 turns afterward. New status effects can be still inflicted. ~ Once per battle.",
     "3": "Immortal",
     "6": " isn't finished yet! He is immortal!",
-    "7": "Every ability costs #h{stamina} to use. Stamina is regenerated each turn, depending on how much you've spent. Choosing to #h{wait} will regenerate 100% of your stamina, however. ~ If you strike many times during a single turn, you may drain all your stamina. This will result in the character getting an #h{out of breath} status, and he won't be able to execute any abilities (attack, shield ally, ranged support, etc.) until the following turn.",
+    "7": "Every ability costs #h{stamina} to use. Stamina is regenerated each turn, depending on how much you've spent. Choosing to #h{wait} will regenerate 50% of your stamina, however. ~ If you strike many times during a single turn, you may drain all your stamina. This will result in the character getting an #h{out of breath} status, and he won't be able to execute any abilities (attack, shield ally, ranged support, etc.) until the following turn.",
     "8": "Normally, if your character executes an action, like an attack, his turn automatically #h{ends}. ~ However if you do not wish to take an action, you can end the turn by #h{Waiting}. This also #h{boosts speed} by a small amount, so the character will act sooner  next turn. #h{Wait} by clicking the icon at the bottom of the screen or pressing #h{SPACE}.",
     "9": "Your leader has #h{fallen}! ~ ~ This means he has an #h{injury}. Injuries can be #h{healed}, but next time he falls with an injury, he will die, and that means the #h-red{end of the game}!",
     "10": "Your situation looks quite hopeless. Sometimes a strategic retreat is a better option than fighting to the death. You can always withdraw from the battlefield to your previous node on the world map. When retreating, make sure your characters stay on the retreat tiles to avoid injury. Any character outside the retreat tiles and close to an enemy will be injured or killed! Also note that enemies you killed in this battle will remain dead when you return later. Map terrain will be different though.",
@@ -388,8 +388,7 @@
     "396": "Strike with enormous force! #h{+150% bonus damage}! Focus gain is reduced until next turn. ~ This ability is considered as normal attack. ~ Ends turn.",
     "397": "Throw beartrap",
     "398": "Throw beartrap to target tile. Enemies stepping on beartrap are inflicted with #h{bleeding} and are #h{immobilized}. Allies are not affected. This ability does not end turn.",
-    "399": "Throw Assassin's Mark",
-    "400": "Throw Assassin's Mark (trap) to target tile. When an enemy steps on trap, your nearby allies (melee and ranged) will attack instantly, if possible. This ability does not end turn.",
+    "400": "Throw Assassin's Mark (trap) to target tile. When an enemy steps on trap, your nearby allies (melee and ranged) will attack instantly, if possible. All hits are guaranteed #h{criticals}. This ability does not end turn.",
     "401": "Throw Spike Trap",
     "402": "Lead",
     "403": "Target is attacked by #h{all adjacent melee allies} including self. You must be in melee range to the target to use this ability. ~ This ability is considered as normal attack. ~ Ends turn.",
@@ -880,7 +879,7 @@
     "986": "Maximum force",
     "987": "On normal hit, 30% chance to #h{stun} the target. On critical hit, chance is 100%.",
     "988": "Assassin's retreat",
-    "989": "After a backstab, option to move up to #h{%1% more hexes}. Stacks up to maximum range of character.",
+    "989": "After a backstab, you can move up to #h{%1% more hexes}. Stacks up to maximum range of character.",
     "990": "Extra %1%x moves!",
     "993": "Counterstrike",
     "994": "Grants counterstrike when blocking damage with Ally shielding or Aegis.",
@@ -2759,7 +2758,11 @@
     "5460": "Slow learner",
     "5461": "You're not too bright and learn a bit slower. XP required for level-up is increased by #h{%1%%}.",
     "5462": "After so many battles, the #h{Death Stone} has been depleted!",
-    "5463": "Death Stone depleted"
+    "5463": "Death Stone depleted",
+    "5464": "Throw Assassin's Mark",
+    "5465": "Change language",
+    "5466": "Game language was set to #h{polish}. For best results, please restart the game.",
+    "5467": "Change the game language to #h{polish}. ~ A restart is required to apply the change."
   },
-  "lastKey": 5463
+  "lastKey": 5467
 }
