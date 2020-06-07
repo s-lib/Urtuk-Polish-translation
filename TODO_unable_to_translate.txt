@@ -6,4 +6,4 @@ English texts not possible to translate (not in translation file)
 4. Lines "2166": "2167": "2171": -->  untranslatable injected enemy name ("swampers", "scavengers"...)
 5. After disambling any mutator a text appears informing how much life essence you got. The purple part of this text ("xx Life Essence") is still in english (happens also on russian version). It's the text added to line "591".
 6. When killed one of the Forsaken in a village, new one appeared on the map with a "I will avenge you!" dialog.
-7. "5182": "Relic of " doesn't work??? After translating still uses english version - need to test it on brand new save...
+7. "5182": "Relic of " doesn't work. After translating still uses english version.
