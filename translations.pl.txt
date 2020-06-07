@@ -2750,16 +2750,16 @@
     "5451": " ~ ~ Możesz pozyskać te cechy (wybrane losowo, uporządkowane według preferencji):",
     "5452": "Kamień Śmierci (%1%)",
     "5453": " ~ ~ Nie można zarżnąć: ~ <<entity>> nie ma cech, które można by pozyskać."
-    "5454": "Valdorian armour is of such high quality it is unaffected by #h{acid} and its #h{protection} is increased by %1%%.",
-    "5455": "Forsaken Master",
-    "5456": "A small creature with a powerful axe, he can pull enemies to him from any direction.",
-    "5457": "Beast preservation",
-    "5458": "Whenever an ally dies, increase your #h{attack damage} by +%1%% for the duration of this battle and gain %2%x charges of #h{damage recovery (%3%%)}. The bonus damage decays by %4%% per turn.",
-    "5459": " (+%1%% dmg)",
-    "5460": "Slow learner",
-    "5461": "You're not too bright and learn a bit slower. XP required for level-up is increased by #h{%1%%}.",
-    "5462": "After so many battles, the #h{Death Stone} has been depleted!",
-    "5463": "Death Stone depleted"
+    "5454": "Valdoriańska zbroja jest tak wysokiej jakości, że nie działa na nią #h{kwas}, a jej #h{ochrona} jest zwiększona o %1%%.",
+    "5455": "Zapomniany Mistrz",
+    "5456": "Mały stwór z potężnym toporem, jest w stanie przyciągać do siebie wrogów z każdego kierunku.",
+    "5457": "Przetrwanie bestii",
+    "5458": "Za każdym razem, gdy ginie sojusznik, zwiększasz swoje #h{zadawane obrażenia} o +%1%% na czas trwania tej bitwy oraz zyskujesz %2%x użycia #h{kuracji obrażeń (%3%%)}. Premia do obrażeń zmniejsza się o %4%% na turę.",
+    "5459": " (+%1%% obr.)",
+    "5460": "Powolny uczeń",
+    "5461": "Nie jesteś zbyt bystry i gorzej przyswajasz wiedzę. Ilość punktów doświadczenia potrzebnych do awansowania na kolejny poziom jest wyższa o #h{%1%%}.",
+    "5462": "Po tak wielu bitwach moc #h{Kamienia Śmierci} wyczerpała się!",
+    "5463": "Kamień Śmierci wyczerpany"
   },
   "lastKey": 5463
 }
