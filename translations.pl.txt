@@ -160,7 +160,6 @@
     "158": "ASSASSIN'S MARK~ ~ When an enemy enters this hex, nearby allies will #h{attack the target with a guaranteed crit}, if possible. Doesn't affect allies.",
     "159": "BARRICADE~ ~ Impassable. ~  When bashed or pushed into barricade, target sustains damage of #h{15% MAX HP}. ~ #h{Doesn't block line of sight}.",
     "160": "Trap triggered!",
-    "161": "BEARTRAP~ ~ Enemies entering this hex are inflicted with #h{bleeding} and #h{immobilized}. Doesn't affect allies and is invisible to enemies.",
     "162": "OBJECT ~ Impassable. ~ Blocks line of sight.",
     "163": " entered dead zone!",
     "164": "DEATH ZONE~ ~ Any unit entering this hex is #h{killed.}",
@@ -387,7 +386,6 @@
     "395": "Mansplitter",
     "396": "Strike with enormous force! #h{+150% bonus damage}! Focus gain is reduced until next turn. ~ This ability is considered as normal attack. ~ Ends turn.",
     "397": "Throw beartrap",
-    "398": "Throw beartrap to target tile. Enemies stepping on beartrap are inflicted with #h{bleeding} and are #h{immobilized}. Allies are not affected. This ability does not end turn.",
     "400": "Throw Assassin's Mark (trap) to target tile. When an enemy steps on trap, your nearby allies (melee and ranged) will attack instantly, if possible. All hits are guaranteed #h{criticals}. This ability does not end turn.",
     "401": "Throw Spike Trap",
     "402": "Lead",
@@ -2749,7 +2747,6 @@
     "5451": " ~ ~ You might extract these traits (randomely chosen, ordered by preference):",
     "5452": "Death Stone (%1%)",
     "5453": " ~ ~ You can't butcher: ~ <<entity>> has no extractable traits.",
-    "5454": "Valdorian armour is of such high quality it is unaffected by #h{acid} and its #h{protection} is increased by %1%%.",
     "5455": "Forsaken Master",
     "5456": "A small creature with a powerful axe, he can pull enemies to him from any direction.",
     "5457": "Beast preservation",
@@ -2762,7 +2759,10 @@
     "5464": "Throw Assassin's Mark",
     "5465": "Change language",
     "5466": "Game language was set to #h{polish}. For best results, please restart the game.",
-    "5467": "Change the game language to #h{polish}. ~ A restart is required to apply the change."
+    "5467": "Change the game language to #h{polish}. ~ A restart is required to apply the change.",
+    "5468": "BEARTRAP~ ~ Enemies entering this hex are #h{immobilized}. Doesn't affect allies and is invisible to enemies.",
+    "5469": "Throw beartrap to target tile. Enemies stepping on beartrap are #h{immobilized}. Allies are not affected. This ability does not end turn.",
+    "5470": "Valdorian armour is of such high quality that it is unaffected by #h{acid}, cannot be #h{pierced} and its #h{protection} is increased by %1%%."
   },
-  "lastKey": 5467
+  "lastKey": 5470
 }
