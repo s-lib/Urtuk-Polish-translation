@@ -1969,14 +1969,14 @@
     "2213": "Zarażono!",
     "2214": " ~ Obecne dodatkowe obrażenia na trafienie: %1%% maks. PZ",
     "2215": "Rzeźnik",
-    "2216": "na podstawie obecnej wartości skupienia, otrzymujesz #h{aż do 100%} premii do zadawanych obrażeń.",
+    "2216": "Na podstawie obecnej wartości skupienia, otrzymujesz #h{aż do 100%} premii do zadawanych obrażeń.",
     "2222": "Pochłanianie życia",
     "2224": "zwiększa swoją witalność!",
     "2225": " (+%1%% maks. PZ)",
     "2226": "Zadając śmiertelny cios zwiększasz na stałe swoje maks. PZ o %1%%. ~ Przy maksymalnym postępie zyskujesz dodatkową regenerację zdrowia w wysokości 20% maks. PZ na turę przez pierwsze 10 tur po rozpoczęciu bitwy. ~ ~ Maksymalna premia PZ: +%2%% ~ Obecnie: +%3%%",
     "2227": "TOKSYCZNE CIERNIE~ ~ Jednostki wkraczające na to pole zostaną #h{zatrute} na #h{1} turę. Toksyczne ciernie z czasem będą się rozrastać na nowe pola!",
     "2228": "KŁUJĄCE CIERNIE~ ~ Jednostki wkraczające na to pole będą #h{krwawić} przez #h{2} tury. Ciernie z czasem będą się rozrastać na nowe pola!",
-    "2229": "Wielkie, ostre, %1% ciernie porosły całą krainę! ~ Uważaj na to nowe środowiskowe zagrożenie na polu bitwy.",
+    "2229": "W całej krainie można dostrzec wzrost wielkich, ostrych, %1% cierni! ~ Uważaj na to nowe środowiskowe zagrożenie na polu bitwy.",
     "2230": "Przerost cierni!",
     "2231": "Przerost %1% cierni. Pozostało dni: %2%",
     "2232": "Uważaj na kępy niebezpiecznych, %1% cierni podczas bitew.",
@@ -2763,7 +2763,10 @@
     "5464": "Rzuć Znamię zabójcy",
     "5465": "Zmień język",
     "5466": "Język gry został ustawiony na #h{polski}. Dla najlepszego efektu, uruchom grę ponownie.",
-    "5467": "Zmień język gry na #h{polski}. ~ Ponowne uruchomienie gry jest wymagane, aby zastosować zmiany."
+    "5467": "Zmień język gry na #h{polski}. ~ Ponowne uruchomienie gry jest wymagane, aby zastosować zmiany.",
+    "5468": "WNYKI~ ~ Wrogowie wkraczający na to pole zostają #h{unieruchomieni}. Pułapka nie wpływa na sojuszników i jest niewidzialna dla wrogów.",
+    "5469": "Rzuć wnyki na docelowe pole. Wrogowie wpadający we wnyki zostają #h{unieruchomieni}. Nie wpływa na sojuszników. Ta umiejętność nie kończy tury.",
+    "5470": "Valdoriańska zbroja jest tak wysokiej jakości, że nie działa na nią #h{kwas}, nie może zostać #h{przebita}, a jej #h{ochrona} jest zwiększona o %1%%."
   },
-  "lastKey": 5467
+  "lastKey": 5470
 }
