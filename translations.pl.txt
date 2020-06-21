@@ -2669,8 +2669,6 @@
     "5375": "Play as the #h{Forsaken}! ~ Unlocks when you've made enough progress in the campaign: reach zone 2!",
     "5376": "Change the game language to #h{english}. ~ A restart is required to apply the change.",
     "5377": "Change the game language to #h{russian}. ~ A restart is required to apply the change.",
-    "5378": "Game language was set to #h{english}. For best results, please restart the game.",
-    "5379": "Game language was set to #h{russian}. For best results, please restart the game.",
     "5380": " (Zone Center)",
     "5381": "Garrison (%1%)",
     "5382": "Skip",
@@ -2756,16 +2754,13 @@
     "5463": "Death Stone depleted",
     "5464": "Throw Assassin's Mark",
     "5465": "Change language",
-    "5466": "Game language was set to #h{polish}. For best results, please restart the game.",
     "5467": "Change the game language to #h{polish}. ~ A restart is required to apply the change.",
     "5468": "BEARTRAP~ ~ Enemies entering this hex are #h{immobilized}. Doesn't affect allies and is invisible to enemies.",
     "5469": "Throw beartrap to target tile. Enemies stepping on beartrap are #h{immobilized}. Allies are not affected. This ability does not end turn.",
     "5470": "Valdorian armour is of such high quality that it is unaffected by #h{acid}, cannot be #h{pierced} and its #h{protection} is increased by %1%%.",
     "5471": "Change language",
-    "5472": "Game language was set to #h{french}. For best results, please restart the game.",
     "5473": "Change the game language to #h{french}. ~ A restart is required to apply the change.",
     "5474": "Change language",
-    "5475": "Game language was set to #h{chinese}. For best results, please restart the game.",
     "5476": "Change the game language to #h{chinese}. ~ A restart is required to apply the change.",
     "5479": "%1% %2%",
     "5480": "Terrain awareness",
@@ -2774,7 +2769,12 @@
     "5483": "Rare %1%",
     "5484": "Legendary %1%",
     "5485": "%1% %2%",
-    "5486": "%1% %2%"
+    "5486": "%1% %2%",
+    "5487": "Game language was set to #h{english}. For best results, start the game again. ~ ~ The game will now exit to desktop.",
+    "5488": "Game language was set to #h{russian}. For best results, start the game again. ~ ~ The game will now exit to desktop.",
+    "5489": "Game language was set to #h{polish}. For best results, start the game again. ~ ~ The game will now exit to desktop.",
+    "5490": "Game language was set to #h{french}. For best results, start the game again. ~ ~ The game will now exit to desktop.",
+    "5491": "Game language was set to #h{chinese}. For best results, start the game again. ~ ~ The game will now exit to desktop."
   },
-  "lastKey": 5486
+  "lastKey": 5491
 }
