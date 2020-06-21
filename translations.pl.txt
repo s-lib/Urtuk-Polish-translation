@@ -1184,8 +1184,6 @@
     "1355": "masterful",
     "1356": "poor quality",
     "1357": "rusty",
-    "1358": "Rare ",
-    "1359": "Legendary ",
     "1360": "#h2-gold{ (Focus Ability)}",
     "1361": "~ ~ Damage: %1% ~ Armour shatter: %2%%",
     "1362": " ~ On-hit: %1% #h-purple{speed}",
@@ -2748,7 +2746,7 @@
     "5452": "Death Stone (%1%)",
     "5453": " ~ ~ You can't butcher: ~ <<entity>> has no extractable traits.",
     "5455": "Forsaken Master",
-    "5456": "A small creature with a powerful axe, he can pull enemies to him from any direction.",
+    "5456": "A creature with a powerful axe, he can pull enemies to him from any direction.",
     "5457": "Beast preservation",
     "5458": "Whenever an ally dies, increase your #h{attack damage} by +%1%% for the duration of this battle and gain %2%x charges of #h{damage recovery (%3%%)}. The bonus damage decays by %4%% per turn.",
     "5459": " (+%1%% dmg)",
@@ -2762,7 +2760,21 @@
     "5467": "Change the game language to #h{polish}. ~ A restart is required to apply the change.",
     "5468": "BEARTRAP~ ~ Enemies entering this hex are #h{immobilized}. Doesn't affect allies and is invisible to enemies.",
     "5469": "Throw beartrap to target tile. Enemies stepping on beartrap are #h{immobilized}. Allies are not affected. This ability does not end turn.",
-    "5470": "Valdorian armour is of such high quality that it is unaffected by #h{acid}, cannot be #h{pierced} and its #h{protection} is increased by %1%%."
+    "5470": "Valdorian armour is of such high quality that it is unaffected by #h{acid}, cannot be #h{pierced} and its #h{protection} is increased by %1%%.",
+    "5471": "Change language",
+    "5472": "Game language was set to #h{french}. For best results, please restart the game.",
+    "5473": "Change the game language to #h{french}. ~ A restart is required to apply the change.",
+    "5474": "Change language",
+    "5475": "Game language was set to #h{chinese}. For best results, please restart the game.",
+    "5476": "Change the game language to #h{chinese}. ~ A restart is required to apply the change.",
+    "5479": "%1% %2%",
+    "5480": "Terrain awareness",
+    "5481": "You have special sense to reveal traps and thus ignore all of them!",
+    "5482": "Trap ignored!",
+    "5483": "Rare %1%",
+    "5484": "Legendary %1%",
+    "5485": "%1% %2%",
+    "5486": "%1% %2%"
   },
-  "lastKey": 5470
+  "lastKey": 5486
 }
