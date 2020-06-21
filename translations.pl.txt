@@ -1187,8 +1187,6 @@
     "1355": "mistrzowskiej ręki",
     "1356": "słabej jakości",
     "1357": "kiepskiego stanu",
-    "1358": "(Rzadki) ",
-    "1359": "(Legendarny) ",
     "1360": "#h2-gold{ (Umiejętność skupienia)}",
     "1361": "~ ~ Obrażenia: %1% ~ Rozbicie pancerza: %2%%",
     "1362": " ~ Przy trafieniu: %1% #h-purple{szybkości}",
@@ -2752,7 +2750,7 @@
     "5453": " ~ ~ Nie można zarżnąć: ~ <<entity>> nie ma cech, które można by pozyskać."
     "5454": "Valdoriańska zbroja jest tak wysokiej jakości, że nie działa na nią #h{kwas}, a jej #h{ochrona} jest zwiększona o %1%%.",
     "5455": "Zapomniany Mistrz",
-    "5456": "Mały stwór z potężnym toporem, jest w stanie przyciągać do siebie wrogów z każdego kierunku.",
+    "5456": "Pokraczny stwór z potężnym toporem, jest w stanie przyciągać do siebie wrogów z każdego kierunku.",
     "5457": "Przetrwanie bestii",
     "5458": "Za każdym razem, gdy ginie sojusznik, zwiększasz swoje #h{zadawane obrażenia} o +%1%% na czas trwania tej bitwy oraz zyskujesz %2%x użycia #h{kuracji obrażeń (%3%%)}. Premia do obrażeń zmniejsza się o %4%% na turę.",
     "5459": " (+%1%% obr.)",
