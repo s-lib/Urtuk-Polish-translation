@@ -2841,7 +2841,13 @@
     "7093": "%1% uwielbia ból! Ponownie sam siebie zranił!",
     "7094": "Sadysta!",
     "7095": "Moczaraki",
-    "7096": "Graj jako #h{Moczaraki}! ~ Odblokowuje się, gdy wystarczająco daleko zajdziesz w kampanii: dotrzyj do strefy 2!"
+    "7096": "Graj jako #h{Moczaraki}! ~ Odblokowuje się, gdy wystarczająco daleko zajdziesz w kampanii: dotrzyj do strefy 2!",
+    "7097": "Pułapka uruchomiona!",
+    "7099": "PIĘTNO PRZEŚMIEWCY ~ ~ Kiedy wróg wkroczy na to pole, #h{jego pobliscy sojusznicy} zaatakują go, jeżeli będą w stanie.",
+    "7100": "Rzuć Piętno prześmiewcy",
+    "7101": "Rzuca Piętno prześmiewcy na pole docelowe. Gdy wróg nadepnie na pułapkę, #h{jego właśni sojusznicy} w zasięgu ataku (wręcz i dystansowego) niezwłocznie zaatakują, jeśli będą w stanie. Wszystkie trafienia będą #h{krytyczne}. Ta umiejętność nie kończy tury.",
+    "7102": "Piętno prześmiewcy!",
+    "7103": "Relikwia Prześmiewcy"
   },
-  "lastKey": 7096
+  "lastKey": 7103
 }
