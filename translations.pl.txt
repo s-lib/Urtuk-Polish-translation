@@ -2837,7 +2837,13 @@
     "7093": "%1% loves the pain! Once again, he injured himself!",
     "7094": "The Sadist!",
     "7095": "Swampers",
-    "7096": "Play as the #h{Swampers}! ~ Unlocks when you've made enough progress in the campaign: reach zone 2!"
+    "7096": "Play as the #h{Swampers}! ~ Unlocks when you've made enough progress in the campaign: reach zone 2!",
+    "7097": "Trap triggered!",
+    "7099": "MOCKER'S MARK ~ ~ When an unit enters this hex, #h{his nearby allies} will attack him, if possible.",
+    "7100": "Throw Mocker's Mark",
+    "7101": "Throw Mocker's Mark to target tile. When an enemy steps on trap, #h{his own nearby allies} (melee and ranged) will attack instantly, if possible. All hits are guaranteed #h{criticals}. This ability does not end turn.",
+    "7102": "Mocker's Mark!",
+    "7103": "The Relic of Mocker"
   },
-  "lastKey": 7096
+  "lastKey": 7103
 }
