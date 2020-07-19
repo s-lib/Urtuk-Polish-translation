@@ -1143,7 +1143,7 @@
     "1313": "Uzdrowiciel",
     "1315": "Dzięki swym znacznym umiejętnościom, twój uzdrowiciel #h{%1%} zdołał stworzyć #h{medykament} z krwi i mięsa! ~ ~ #h-gold{Medykamenty: +1} ~ #h-red{Krew: -%2%} ~ #h-red{Mięso: -%3%}",
     "1316": "Cudowne uzdrowienie",
-1903    "1319": "Rana uleczona!",
+    "1319": "Rana uleczona!",
     "1321": "Mutacja %1%a",
     "1322": "#h{Mutacja}",
     "1324": "Wampir",
