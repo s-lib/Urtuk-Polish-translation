@@ -867,7 +867,6 @@
     "982": "Vampire's speed",
     "983": "When enemy is bleeding strike #h{twice}.",
     "984": "Toxic cloud",
-    "985": "On normal attack, spread poison cloud.",
     "986": "Maximum force",
     "987": "On normal hit, 30% chance to #h{stun} the target. On critical hit, chance is 100%.",
     "988": "Assassin's retreat",
@@ -1261,9 +1260,6 @@
     "1452": "Gods thank you! ~ ~ If you hadn't come, we would've perished for sure! ~ We're adventurers and one of us would like to #h{accompany you on your journey}!",
     "1453": "Gods thank you! ~ If it hadn't been for you, I'd be dead for sure! ~ My brother is gone and it's too dangerous for me to travel this hostile land alone. Please let me #h{accompany you on your journey}.",
     "1454": "You couldn't save them, but at least they left some nice gear behind...",
-    "1455": "Beasts",
-    "1456": "Werebeasts",
-    "1457": "Vampires",
     "1458": "Defend them!",
     "1459": "You've reached the site and see a clutch of frightened traders with their mercenaries preparing to fight a horde of #h-red{%1%}! ~ The defenders are standing their ground behind the barricades, waiting for the battle to begin. ~ ~ Do we have the men and skills to help them? The reward could be quite substantial!",
     "1460": "Caravan under attack",
@@ -2077,7 +2073,6 @@
     "2356": "Cannot raise terrain! Other units may not be able to reach it!",
     "2357": "Cannot raise terrain! Other units may not be able to reach it!",
     "2360": "Throw barrel",
-    "2361": "Throw an oil barrel at very long range (3-20). ~ Ends turn.",
     "2362": "Oil barrel thrower",
     "2363": "This stationary catapult throws barrels of hot oil at extreme range.",
     "2364": "Once you've eliminated the thugs who took over the village, an old man approaches you. ~ 'Thank you for freeing my people! I am Viratorax, the local shaman. Please accept this #h{medicine} as a sign of our gratitude!' ~ You explain your strange illness to him and ask if he can help: ~ 'Hmm... your condition is both baffling and terrifying. I am sorry, but a cure is beyond my skills as a healer. I can however tell you that your mutation will #h{progress} over time, but #h-gold{will not kill you}.'",
@@ -2860,8 +2855,8 @@
     "7131": "Marshbeast",
     "7132": "Flesh consumer",
     "7133": "Every #h{%1%} days, you need to eat #h{%2% flesh}! If not consumed on time, you will loose #h{%3% VIT}.",
-    "7134": "%1% devoured %2% flesh. (Click to dismiss)",
-    "7135": "%1% can't find %2% flesh to consume! He lost %3% of his vitality! (Click to dismiss)",
+    "7134": "%1% devoured %2% flesh.  #h-shout{(Click to dismiss)}",
+    "7135": "%1% can't find %2% flesh to consume! He lost %3% of his vitality!  #h-shout{(Click to dismiss)}",
     "7136": "Butcher (Flesh)",
     "7137": "Kill <<entity>> and butcher him for #h{%1% flesh}.",
     "7138": "#h-gold{%1%} was butchered! ~ ~ You've got #h{%2% flesh}.",
@@ -2906,7 +2901,9 @@
     "7179": "Close",
     "7180": "Hmm... This place looks scary.",
     "7181": "What's this? ~ Intruders! ~ Kill them now!",
-    "7182": "They are too slow against you! You swing too fast for that #h{armoured enemy} to recover and are able to perform an #h{additional hit} immediately on #h{maximum Focus}! With its hit, you will #h{break one piece of armour}! ~ ~ Works only against #h{armoured} targets, at no stamina cost."
+    "7182": "They are too slow against you! You swing too fast for that #h{armoured enemy} to recover and are able to perform an #h{additional hit} immediately on #h{maximum Focus}! With its hit, you will #h{break one piece of armour}! ~ ~ Works only against #h{armoured} targets, at no stamina cost.",
+    "7183": "On normal attack, spread poison cloud. Ignores armour.",
+    "7184": "Throw an oil barrel at very long range (8-20). ~ Ends turn."
   },
-  "lastKey": 7182
+  "lastKey": 7184
 }
