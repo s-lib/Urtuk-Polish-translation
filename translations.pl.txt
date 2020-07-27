@@ -174,7 +174,6 @@
     "172": "KOLCZASTY SŁUP~ ~ Nieprzekraczalne. Postać uderzona o lub wepchnięta na kolczasty słup zostaje #h{ogłuszona} oraz zaczyna #h{krwawić}. Blokuje linię wzroku.",
     "173": "KOLCE~ ~ Każda postać wkraczająca na to pole otrzymuje obrażenia w wysokości #h{15% maks. PZ}.",
     "174": "Pułapka uruchomiona!",
-    "175": "PUŁAPKA KOLCZASTA~ ~ Wrogowie wkraczający na to pole otrzymują obrażenia w wysokości #h{35% maks. PZ}. Nie wpływa na sojuszników.",
     "176": "Kolce rosną!",
     "178": "#skill-label{%1%}",
     "179": "kosztuje %1% energii",
@@ -1138,7 +1137,6 @@
     "1311": " ~ ~ Obecny poziom: ",
     "1312": " ~ ~ Obecny poziom: ",
     "1313": "Uzdrowiciel",
-    "1315": "Dzięki swym znacznym umiejętnościom, twój uzdrowiciel #h{%1%} zdołał stworzyć #h{medykament} z krwi i mięsa! ~ ~ #h-gold{Medykamenty: +1} ~ #h-red{Krew: -%2%} ~ #h-red{Mięso: -%3%}",
     "1316": "Cudowne uzdrowienie",
     "1319": "Rana uleczona!",
     "1321": "Mutacja %1%a",
@@ -1914,7 +1912,6 @@
     "2182": "Statystyki(?)",
     "2183": "Stwórz medykament...",
     "2184": "+%1% Energii",
-    "2185": "Rzuć kolczatkę. Wrogowie wkraczający na to pole otrzymują obrażenia w wysokości #h{35% maks. PZ}. Nie wpływa na sojuszników. Użycie tej umiejętności nie zakończy tury.",
     "2186": "Strefa kontroli",
     "2187": "Pola przyległe do wroga walczącego wręcz są w jego #h{strefie kontroli}. Kiedy twoja postać wejdzie w strefę kontroli, #h-red{nie może ruszyć się dalej}. ~ Pamiętaj, że nie dotyczy to jednostek #h{dystansowych, ogłuszonych czy panikujących}.",
      "2188": "Twój płatnerz #h{%1%} poprawił jakoś przedmiotu #h-purple{%2%} na #h-purple{%3%}! Niesłychane!",
@@ -2907,7 +2904,11 @@
     "7181": "A to co? ~ Intruzi! ~ Zabić ich, żwawo!",
     "7182": "Są dla ciebie zbyt powolni! Twe ciosy są zbyt szybkie, aby #h{opancerzeni wrogowie} zdołali je skontrować, dzięki czemu zyskujesz #h{dodatkowe trafienie} niezwłocznie po osiągnięciu #h{maksymalnego skupienia}! Tym trafieniem #h{zniszczysz jedną część pancerza}! ~ ~ Ten atak działa tylko przeciwko #h{opancerzonym} celom i nie zużywa energii.",
     "7183": "Przy zwykłym ataku rozsiewa toksyczną chmurę. Ignoruje pancerz.",
-    "7184": "Wyrzuca beczkę oleju na bardzo duży zasięg (8-20). ~ Kończy turę."
+    "7184": "Wyrzuca beczkę oleju na bardzo duży zasięg (8-20). ~ Kończy turę.",
+    "7185": "Rzuć kolczatkę. Wrogowie wkraczający na pole z tą pułapką otrzymują obrażenia w wysokości #h{%1%% maks. PZ}. Nie wpływa na sojuszników. Użycie tej umiejętności nie zakończy tury.",
+    "7186": "KOLCZATKA~ ~ Wrogowie wkraczający na pole z tą pułapką otrzymują obrażenia w wysokości #h{%1%% maks. PZ}. Nie wpływa na sojuszników.to . Doesn't affect allies.",
+    "7187": "Ukryj",
+    "7188": "Ukryj wszystkie poniższe wiadomości."
   },
-  "lastKey": 7184
+  "lastKey": 7188
 }
