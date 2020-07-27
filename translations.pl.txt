@@ -173,7 +173,6 @@
     "172": "SPIKED PILLAR~ ~ Impassable. Units bashed or pushed into spiked pillar are #h{stunned} and incur #h{bleeding} status. Blocks line of sight.",
     "173": "SPIKES~ ~ Any unit entering this hex receives damage equal to #h{15% MAX HP}.",
     "174": "Trap triggered!",
-    "175": "SPIKE TRAP~ ~ Enemies entering this hex receive damage equal to #h{35% MAX HP}. Doesn't affect allies.",
     "176": "Thorns growing!",
     "178": "#skill-label{%1%}",
     "179": "costs %1% stamina",
@@ -1135,7 +1134,6 @@
     "1311": " ~ ~ Current level: ",
     "1312": " ~ ~ Current level: ",
     "1313": "Healer",
-    "1315": "With his substantial skills, your healer #h{%1%} was able to create #h{medicine} from blood and flesh! ~ ~ #h-gold{Medicine: +1} ~ #h-red{Blood: -%2%} ~ #h-red{Flesh: -%3%}",
     "1316": "Super healing",
     "1319": "Injury healed!",
     "1321": "%1%'s mutation",
@@ -1911,7 +1909,6 @@
     "2182": "Statistics(?)",
     "2183": "Create medicine..",
     "2184": "+%1% Stamina",
-    "2185": "Throw Spike Trap. Enemies entering this hex receive damage equal to #h{35% MAX HP}. Doesn't affect allies. Using this ability doesn't end turn.",
     "2186": "Zone of Control",
     "2187": "Tiles adjacent to a melee enemy are in its #h{zone of control}. Once your character enter the zone of control, he #h-red{cannot move any further}. ~ Note that this does not apply for #h{ranged, stunned or panicked} units.",
     "2188": "Your armourer #h{%1%} has improved the quality of #h-purple{%2%} to #h-purple{%3%}! Huzzah!",
@@ -2903,7 +2900,11 @@
     "7181": "What's this? ~ Intruders! ~ Kill them now!",
     "7182": "They are too slow against you! You swing too fast for that #h{armoured enemy} to recover and are able to perform an #h{additional hit} immediately on #h{maximum Focus}! With its hit, you will #h{break one piece of armour}! ~ ~ Works only against #h{armoured} targets, at no stamina cost.",
     "7183": "On normal attack, spread poison cloud. Ignores armour.",
-    "7184": "Throw an oil barrel at very long range (8-20). ~ Ends turn."
+    "7184": "Throw an oil barrel at very long range (8-20). ~ Ends turn.",
+    "7185": "Throw Spike Trap. Enemies entering this hex receive damage equal to #h{%1%% MAX HP}. Doesn't affect allies. Using this ability doesn't end turn.",
+    "7186": "SPIKE TRAP~ ~ Enemies entering this hex receive damage equal to #h{%1%% MAX HP}. Doesn't affect allies.",
+    "7187": "Dismiss",
+    "7188": "Dismiss all messages below."
   },
-  "lastKey": 7184
+  "lastKey": 7188
 }
