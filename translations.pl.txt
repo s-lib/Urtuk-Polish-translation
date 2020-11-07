@@ -3060,5 +3060,5 @@
     "7401": "Język gry został ustawiony na #h{Chiński (Tradycyjny)}. Dla najlepszego efektu, uruchom grę ponownie. ~ ~ Gra wyjdzie teraz do pulpitu.",
     "7402": "Zmień język gry na #h{Chiński (Tradycyjny)}. ~ Wymaga ponownego uruchomienia gry."
   },
-  "lastKey": 7201
+  "lastKey": 7402
 }
