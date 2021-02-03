@@ -3130,7 +3130,20 @@
     "7512": "Behold - the #h{Channelers}! ~ ~ He is able to channel dark energies to create new #h{Revenant} for it’s Master. Kill him to break the Summoning. ~ ~ #h-gray{Each killed Channeler will disable a hole from which a respawned Revenant can crawl out}",
     "7513": "Necromancer",
     "7514": "This creature is an enigma. No one knows what it's capable of.",
-    "7515": "Necromancer's lair"
+    "7515": "Necromancer's lair",
+    "7516": "Channeler",
+    "7517": "Nobody knows what this being is..",
+    "7519": "Game credits",
+    "7520": "#h-gold{Game design & programming}",
+    "7521": "#h-gold{Art}",
+    "7522": "#h-gold{Music}",
+    "7523": "#h-gold{Animations}",
+    "7524": "#h-gold{Copy editor}",
+    "7525": "#h-gold{Russian translation}",
+    "7526": "#h-gold{Chinesse translation}",
+    "7527": "#h-gold{French translation}",
+    "7528": "#h-gold{Polish translation}",
+    "7529": "Back"
   },
-  "lastKey": 7515
+  "lastKey": 7529
 }
