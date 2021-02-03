@@ -3099,7 +3099,7 @@
     "7474": "Doradca Kampanii",
     "7475": " (wyłączone)",
     "7476": " (odblokowano %1%/%2%)",
-    "7477": "Reset",
+    "7477": "Resetuj",
     "7478": "Wytwarzanie medykamentów",
     "7479": "Jeśli brakuje ci #h{medykamentów}, możesz je wytworzyć! ~ Do tego potrzebne ci będą #h{specjalne zasoby}, takie jak #h{krew} i #h{mięso}. ~ Po prawej stronie ekwipunku kliknij ikonę #h{wytwórz medykamenty}.",
     "7480": "Pomiń",
@@ -3125,7 +3125,7 @@
     "7501": " (%1%% RO)",
     "7502": "Dzięki swym #h{Upiornym} sojusznikom, zyskujesz dodatkowe %1%% #h{redukcji całkowitych obrażeń} na każdego #h{upiora}, aż do %2%%. ~ ~ Obecnie: %3%% redukcji",
     "7503": "W porządku, to on - #h{Nekromanta}! ~ Tyran Starożytnego Miasta! Aby dostać się do bram, musimy go pokonać! ~ Uważaj, wszak to twórca Upiorów! Gdy zabijemy jednego z jego żołnierzy, wskrzesi on go jako #h{Upiora}! ~ ~ #h-gray{Pamiętaj, że gdy zabijesz upiora, ginie on na dobre}",
-    "7504": "Ach - %1%! ~ Wiec to o tobie mój mistrz, #h{Alchemik}, tyle opowiadał! Jakimś cudem zawsze udawało ci się zabić Łowców Nagród, których na ciebie nasyłałem. ~ Stańmy teraz twarzą w twarz i zakończmy to na dobre! ~ Przygotujcie się na ŚMIERĆ!!",
+    "7504": "Ach - %1%! ~ Więc to o tobie mój mistrz, #h{Alchemik}, tyle opowiadał! Jakimś cudem zawsze udawało ci się zabić Łowców Nagród, których na ciebie nasyłałem. ~ Stańmy teraz twarzą w twarz i zakończmy to na dobre! ~ Przygotujcie się na ŚMIERĆ!!",
     "7505": "Do ataku!",
     "7506": "Spójrz! To #h-gold{Starożytne Miasto}! ~ Ostatnie miejsce cywilizowanych istot. To tutaj znajdziemy to, czego szukamy. ~ Najpierw jednak musimy pokonać tutejszego tyrana - #h{Nekromantę}. ~ Przygotuj się na ostateczne wyzwanie!",
     "7507": "Starożytne miasto",
@@ -3136,7 +3136,20 @@
     "7512": "Spójrz - to #h{Mistycy}! ~ ~ Mistyk jest w stanie skupić i przekierować mroczne moce, aby utworzyć nowego #h{Upiora} dla swego mistrza. Zabij go, aby przerwać Przyzywanie. ~ ~ #h-gray{Każdy zabity Mistyk neutralizuje jedną norę, z której wskrzeszony Upiór może wypełznąć}",
     "7513": "Nekromanta",
     "7514": "Ta istota jest zagadką. Nikt nie wie do czego jest zdolna.",
-    "7515": "Leże Nekromanty"
+    "7515": "Leże Nekromanty",
+    "7516": "Mistyk",
+    "7517": "Nikt nie wie czym jest ta istota...",
+    "7519": "O Autorach",
+    "7520": "#h-gold{Projekt gry i programowanie}",
+    "7521": "#h-gold{Grafika}",
+    "7522": "#h-gold{Muzyka}",
+    "7523": "#h-gold{Animacje}",
+    "7524": "#h-gold{Korekty}",
+    "7525": "#h-gold{Rosyjskie tłumaczenie}",
+    "7526": "#h-gold{Chińskie tłumaczenie}",
+    "7527": "#h-gold{Francuskie tłumaczenie}",
+    "7528": "#h-gold{Polskie tłumaczenie}",
+    "7529": "Wróć"
   },
-  "lastKey": 7515
+  "lastKey": 7529
 }
